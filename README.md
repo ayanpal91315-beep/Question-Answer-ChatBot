@@ -1,0 +1,1 @@
+Question & Answer ChatBot is an AI-powered chatbot built with Python that provides accurate, real-time answers to user queries. Designed with a simple terminal interface, it supports conversational interactions, maintains chat history, and demonstrates the integration of modern LLM APIs for intelligent question answering.
